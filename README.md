@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I'm Ashley! I'm software engineer and I love hackathons, tabletop gaming, woodworking and spending time with my family. 
+
+Here my websites:
+* [The Coding Couple](https://www.thecodingcouple.com/) - where I blog about programming (a joint effort with my spouse)
+* [Handmade with Ashley](https://www.handmadewithashley.com) - where I share things I've crafted 
+* [Cardboard Bits](https://www.cardboardbits.com) - home for my board game reviews and RPG campaign logs 
+
+
 <!--
 **townsean/townsean** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
